@@ -10,7 +10,6 @@ Everything you need to run your [Haven](https://haven.hackclub.com/) event. Have
 - **Plan public demos** (the pop-up arcade); how they run is covered in Check-in Call #7. Venue bans entry/exit? You can skip them.
 - **Add your event's schedule** via the [website update form](https://forms.hackclub.com/haven-website); most event pages don't have one yet
 - **Check your event page's venue link** (else "Venue TBD"). Wrong? Fix it yourself: add `venueLink` to `hero` in the [website form](https://forms.hackclub.com/haven-website) ([how-to](https://github.com/hackclub/haven/blob/main/SITE_DATA.md)); don't DM daamin
-- **Check-in Call #8 is mandatory** (Fri Oct 30 & **Sat Oct 31**): rename yourself "First Last City" in Slack, **invite your co-organisers**
 - **Check your `@haven.hackclub.com` inbox.** Participant questions go there; forward it to your organizer channel ([Slack](https://slack.com/intl/en-au/help/articles/206819278-Send-emails-to-Slack#h_01F4WDZG8RTCTNAMR4KJ7D419V) / [Gmail](https://support.google.com/mail/answer/10957?hl=en))
 
 ## Don'ts
@@ -67,7 +66,7 @@ For every attendee who ships a project and every organizer who finished Jumpstar
 ## Community Calls & Workshops (all EDT)
 
 - **Game dev (beginner friendly):** [Godot platformer](https://luma.com/0d9kex8z) Nov 3, 7 AM
-- **Check-in Call #8:** [RSVP for Oct 31, 11 AM](https://luma.com/92m3iu2o). US DST ends Nov 1, so **recheck times for Call #9**
+- **Check-in Call #9:** US DST ended Nov 1, so **recheck the time** on the [Luma calendar](https://luma.com/hack-club-haven)
 - **Missed the Signupmaxxing call?** [Slides](https://canva.link/llzmktoubgnczpg) from Haven Chandigarh's POC
 
 ## Slack
