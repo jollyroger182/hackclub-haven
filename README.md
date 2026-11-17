@@ -18,8 +18,7 @@ Everything you need to run your [Haven](https://haven.hackclub.com/) event. Have
 - **Check your event page's venue link** (else "Venue TBD"). Wrong? Fix it yourself: add `venueLink` to `hero` in the [website form](https://forms.hackclub.com/haven-website) ([how-to](https://github.com/hackclub/haven/blob/main/SITE_DATA.md)); don't DM daamin
 - **Re-copy updated ceremony slides:** Opening **slides 14-15 & 24**, Closing **slide 9**; recheck templates **1h+ before you start** ([details](https://hackclub.slack.com/archives/C0BM46V4X7F/p1794498224365439))
 - **Know game dev?** Help attendees in [#haven-support](https://hackclub.slack.com/archives/C0BM9DZ0CR0); top helpers may get exclusive merch
-- **Upload photos & videos** to your team's "Haven [City]" Drive folder (invite from daamin); best set wins **$150** for an org dinner ([details](https://hackclub.slack.com/archives/C0BM46V4X7F/p1794602405573439))
-- **Closing-video clips:** send katsu 5-10s clips showing participants, in [thread](https://hackclub.slack.com/archives/C0BM46V4X7F/p1794650371777029) or DM, by **1pm EST Sat Nov 14**
+- **Upload photos & videos now** to your "Haven [City]" Drive folder (invite in your `@haven.hackclub.com` inbox); best set wins **$150** for an org dinner. Participant photos: collect in a separate public Drive, copy the good ones over ([details](https://hackclub.slack.com/archives/C0BM46V4X7F/p1794602405573439) · [reminder](https://hackclub.slack.com/archives/C0BM46V4X7F/p1794920770674339))
 - **Get attendees to fill [hack.club/feedback](http://hack.club/feedback)** (in closing slides); low response rates get investigated and lose Trusted Organizer status
 - **Check your `@haven.hackclub.com` inbox.** Participant questions go there; forward it to your organizer channel ([Slack](https://slack.com/intl/en-au/help/articles/206819278-Send-emails-to-Slack#h_01F4WDZG8RTCTNAMR4KJ7D419V) / [Gmail](https://support.google.com/mail/answer/10957?hl=en))
 
@@ -75,7 +74,6 @@ Everything you need to run your [Haven](https://haven.hackclub.com/) event. Have
 
 ## Extra Funding & Prizes
 
-- **$100 streak:** 1+ signup/day for 30 days **or** 2+/day for 14 days (not both) in [#50-days-till-daven](https://hackclub.slack.com/archives/C0C4GR00EF4) ([tracker](https://daven.haven.hackclub.com/)). Dashboard now counts only ages 13-18; wrong-age signups don't count, so have them re-sign up with the right age (fix before event ends). Streak paid out Nov 6; no $100 = no confirmed venue
 - **boot.dev prize:** every participant who ships a game gets a **1-month code** ($59, new users only), sent 1–3 weeks after Haven; tell your attendees
 - **Email CS teachers** in a lock-in call for extra funding: [session 1](https://luma.com/iqrybfm3) · [session 2](https://luma.com/4e7s4r8d) (better timezone)
 - **Social media campaign:** your Haven HCB gets **$10 per 10,000 views**, capped at **$100 per event** (100k views). Redeem via the [rewards form](https://forms.hackclub.com/haven-socials-rewards)
