@@ -81,7 +81,7 @@ For every attendee who ships a project and every organizer who finished Jumpstar
 - **Contiguous US, Canada, UK & EU** ([regions](https://help.printful.com/hc/en-us/articles/50265219092753-Which-countries-apply-to-which-Printful-shipping-regions)): shipped to you via Printful
 - **Everywhere else:** [counts are out](https://docs.google.com/spreadsheets/d/1d9Feqdg1Oaic6LD-YPtKzTyC2GTLALLy1rzwPieGWGQ/edit?usp=sharing). Submit the final quote (**incl. shipping & taxes**, sheet quantity, screenshot attached) to the [T-shirt form](https://forms.hackclub.com/haven-tshirts) (~48h review); **pay only after approval**. You get exactly the final cost quoted
 - **Funding:** **$5/shirt Asia, $7/shirt elsewhere**; above that, contact 3+ print shops and DM katsu. Want different counts? DM katsu first
-- **Printful shirts not arrived?** Check the tracking link katsu sent; if delivery failed, **call the postal service ASAP** and DM katsu
+- **Shirts arrived after your event, or none came?** **DM katsu** ([details](https://hackclub.slack.com/archives/C0BM46V4X7F/p1795647462694979)). Printful delivery failed? Check tracking, **call the postal service ASAP**
 - **Count** is based on signups around **Oct 20** and won't increase. Not on the sheet? DM katsu. Shirts cover organizers, volunteers & participants; if short, they get mailed.
 
 ## Community Calls & Workshops (all EDT)
