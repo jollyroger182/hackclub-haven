@@ -67,7 +67,6 @@ Everything you need to run your [Haven](https://haven.hackclub.com/) event. Have
 ## Extra Funding & Prizes
 
 - **boot.dev prize:** every participant who ships a game gets a **1-month code** ($59, new users only), sent 1–3 weeks after Haven; tell your attendees
-- **Email CS teachers** in a lock-in call for extra funding: [session 1](https://luma.com/iqrybfm3) · [session 2](https://luma.com/4e7s4r8d) (better timezone)
 - **Social media campaign:** your Haven HCB gets **$10 per 10,000 views**, capped at **$100 per event** (100k views). Redeem via the [rewards form](https://forms.hackclub.com/haven-socials-rewards)
 - **Framework Laptop 12 raffle:** every signup via your [referral link](https://forms.hackclub.com/haven-referrals) is an entry (co-organizers: get the form from your POC)
 - **Sponsors open to Haven:** email CodeCrafters; fill out the form on XYZ Domains (gen.xyz); email [Kadmium](https://www.kadmium.dev/contact-links) (emil@kadmium.dev) for in-kind Unreal Engine prizes
@@ -82,6 +81,7 @@ For every attendee who ships a project and every organizer who finished Jumpstar
 - **Everywhere else:** [counts are out](https://docs.google.com/spreadsheets/d/1d9Feqdg1Oaic6LD-YPtKzTyC2GTLALLy1rzwPieGWGQ/edit?usp=sharing). Submit the final quote (**incl. shipping & taxes**, sheet quantity, screenshot attached) to the [T-shirt form](https://forms.hackclub.com/haven-tshirts) (~48h review); **pay only after approval**. You get exactly the final cost quoted
 - **Funding:** **$5/shirt Asia, $7/shirt elsewhere**; above that, contact 3+ print shops and DM katsu. Want different counts? DM katsu first
 - **Printful shirts not arrived?** Check the tracking link katsu sent; if delivery failed, **call the postal service ASAP** and DM katsu
+- **Late shirt request form closes Mon, Nov 30.** Questions or late-shirt issues? DM katsu ([source](https://hackclub.slack.com/archives/C0BM46V4X7F/p1795797466921039))
 - **Count** is based on signups around **Oct 20** and won't increase. Not on the sheet? DM katsu. Shirts cover organizers, volunteers & participants; if short, they get mailed.
 
 ## Community Calls & Workshops (all EDT)
